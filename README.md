@@ -1,3 +1,6 @@
 # How to write a custom logging provider in Asp.Net Core
 
-The full tutorial can be found at my [WordPress blog](https://teonotebook.wordpress.com/2019/04/13/how-to-write-a-custom-logging-provider-in-asp-net-core/)
+
+### This is a fork from [AspNetCore-CustomLoggingProvider](https://github.com/tbebekis/AspNetCore-CustomLoggingProvider), I like it and I try to refactor and add some new providers to it. 
+### It's good to know how Logging system is working
+#### also thanks again to [Theodoros Bebekis](https://teonotebook.wordpress.com/2019/04/13/how-to-write-a-custom-logging-provider-in-asp-net-core/) for publish a good and full tutorial about this topic.
